@@ -1,5 +1,5 @@
 # Principles
-1. First try to get across the major idea: **do not get stuck in the *details* ** (they will come later)
+1. First try to get across the major idea: **do not get stuck in the details** (they will come later)
 2. Solve problems (**test yourself**): Large part of learning is problem solving (make mistakes)
 3. Go back and forth between different things: do not get stuck in one thing over and over agian
 4. Set aside to **fully study** something and some time to **freely explore it**.
