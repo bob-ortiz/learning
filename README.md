@@ -3,6 +3,7 @@
 2. Solve problems (**test yourself**): Large part of learning is problem solving (make mistakes)
 3. Go back and forth between different things: do not get stuck in one thing over and over agian
 4. Set aside to **fully study** something and some time to **freely explore it**.
+5. **Review** notes for 5-10 minutes and catch *doubts* and *ambiguities*
 
 # Other sources
 1. [La Vie Efficace](https://lavieefficace.wordpress.com/) blog
