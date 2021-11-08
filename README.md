@@ -6,7 +6,8 @@
 5. **Review** notes for 5-10 minutes and catch *doubts* and *ambiguities*
 
 # Other sources
-1. [La Vie Efficace](https://lavieefficace.wordpress.com/) blog
+1. [Learning Sources](./learning_resources/learning_resources.md)
+2. [La Vie Efficace](https://lavieefficace.wordpress.com/) blog
 
 # Assessment 
 ## Seems to work
