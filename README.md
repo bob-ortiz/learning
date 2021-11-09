@@ -25,5 +25,7 @@
 
 ## Yet to experiment
 - [ ] Reading all the course material before the actual class
-- [ ] Plan, Preview, View (go to class), Review, Practice Test, Repeat ([How I Take 0 Notes in Medical School
-](https://youtu.be/CeEZJPJO474) )
+- [ ] Plan, Preview, View (go to class), Review, Practice Test, Repeat ([How I Take 0 Notes in Medical School](https://youtu.be/CeEZJPJO474) )
+- [ ] Figure out what my weakest links are (macroeconomics, time series, diminished chords) and improve them: "If the exam were tomorrow, what topic would I be the most pissed off about?
+- [ ] Testing myself inside the "FLOW" area: where my knowledge/skill on the topic matches linearly the difficulty level
+
