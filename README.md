@@ -3,7 +3,7 @@
 2. Solve problems (**test yourself**): Large part of learning is problem solving (make mistakes)
 3. Go back and forth between different things: do not get stuck in one thing over and over agian
 4. Set aside to **fully study** something and some time to **freely explore it**.
-5. **Review** notes for 5-10 minutes and catch *doubts* and *ambiguities*
+5. **Review** notes for 5-10 minutes and catch *doubts* and *ambiguities* 
 
 # Other sources
 1. [Learning Sources](./learning_resources/learning_resources.md)
@@ -13,7 +13,7 @@
 | **Seems to work**  | **Does not seem to work** |
 | ------------- | ------------- |
 | Switching between focused mode and diffuse mode:  setting a **quitting time**.  | Reading tired (or without caffeine) as I end up falling asleep or not understanding anything  |
-| **Spaced repetition**: 3 correct recalls during initial learning, and relearning 3 times at widely spaced intervals  | Focusing on the *process* not the *product*. What exactly does that mean?  |
+| **Spaced repetition (SR)**: 3 correct recalls during initial learning, and relearning 3 times at widely spaced intervals  | Focusing on the *process* not the *product*. What exactly does that mean?  |
 | Notetaking: Having my (own) notes on the topics to search for them later (e.g. 2SLS in Econometrics 2)| Notetaking: writing everything down in my notebook <br />- A note is a container of thought that has meaning for the person who made it.<br />- Sequential notes have the limitation that they follow the teacher's logical explanation, instead of a holistic and conceptual approach. |
 |Feynman Technique:<br />  1. Study X <br />2. Try to teach X in the most basic way possible (without notes)<br /> 3. Idenfity gaps in knowlede of X and go back and understand better <br /> 4. Repeat ||
 | Doing *more than 1 draft* when solving exercises, to be able to go over them 2 or 3 times||
