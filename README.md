@@ -4,6 +4,7 @@
 3. Go back and forth between different things: do not get stuck in one thing over and over agian
 4. Set aside to **fully study** something and some time to **freely explore it**.
 5. **Review** notes for 5-10 minutes and catch *doubts* and *ambiguities* 
+6. **L**earn, **P**resent, **C**ritique and correct errors (repeat) (and make exercises).
 
 # Other sources
 1. [Learning Sources](./learning_resources/learning_resources.md)
