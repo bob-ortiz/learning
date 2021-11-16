@@ -15,7 +15,7 @@
 | ------------- | ------------- |
 | Switching between focused mode and diffuse mode:  setting a **quitting time**.  | Reading tired (or without caffeine) as I end up falling asleep or not understanding anything  |
 | **Spaced repetition (SR)**: 3 correct recalls during initial learning, and relearning 3 times at widely spaced intervals  | Focusing on the *process* not the *product*. What exactly does that mean?  |
-| Notetaking: Having my (own) notes on the topics to search for them later (e.g. 2SLS in Econometrics 2)| Notetaking: writing everything down in my notebook <br />- A note is a container of thought that has meaning for the person who made it.<br />- Sequential notes have the limitation that they follow the teacher's logical explanation, instead of a holistic and conceptual approach. |
+| Notetaking: Having my (own) notes on the topics to search for them later (e.g. 2SLS in Econometrics 2)| Notetaking: writing everything down in my notebook <br />- A note is a container of thought that has meaning for the person who made it. <br/>- Sequential notes have the limitation that they follow the teacher's logical explanation, instead of a holistic and conceptual approach. |
 |Feynman Technique:<br />  1. Study X <br />2. Try to teach X in the most basic way possible (without notes)<br /> 3. Idenfity gaps in knowlede of X and go back and understand better <br /> 4. Repeat ||
 | Doing *more than 1 draft* when solving exercises, to be able to go over them 2 or 3 times||
 
