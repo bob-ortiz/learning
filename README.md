@@ -9,7 +9,6 @@
 # Other sources
 1. [Learning Sources](./learning_resources/learning_resources.md)
 2. [La Vie Efficace](https://lavieefficace.wordpress.com/) blog
-3. [Vaina](./vaina.html)
 
 # Assessment 
 
