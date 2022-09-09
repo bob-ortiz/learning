@@ -35,4 +35,4 @@ Puta[^1] puta.
 - [ ] Figure out what my weakest links are (macroeconomics, time series, diminished chords) and improve them: "If the exam were tomorrow, what topic would I be the most pissed off about?
 - [ ] Testing myself inside the "FLOW" area: where my knowledge/skill on the topic matches linearly the difficulty level
 
-[^1]: For more [na](./na_ideas.md) here.
+[^1]: For more [na](./learning_resources/na_ideas.md) here.
