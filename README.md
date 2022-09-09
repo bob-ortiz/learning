@@ -1,3 +1,7 @@
+# Ijueputa
+
+Puta[^1] puta.
+
 # Principles
 1. First try to get across the major idea: **do not get stuck in the details** (they will come later)
 2. Solve problems (**test yourself**): Large part of learning is problem solving (make mistakes)
@@ -31,3 +35,4 @@
 - [ ] Figure out what my weakest links are (macroeconomics, time series, diminished chords) and improve them: "If the exam were tomorrow, what topic would I be the most pissed off about?
 - [ ] Testing myself inside the "FLOW" area: where my knowledge/skill on the topic matches linearly the difficulty level
 
+[^1]: For more [na](./na_ideas.md) here.
